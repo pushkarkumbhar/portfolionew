@@ -1,0 +1,11 @@
+table,th,td{
+    border: 2px solid black;
+    padding: 5px;
+    
+}
+.t1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
